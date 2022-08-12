@@ -26,7 +26,7 @@ This repo reflects the process and results of the Front-End course completion.
 ###  _Coursera course_
  [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
-- [X] Finish the first week of course.
+- [X] To finish the first week of course.
 <details><summary>Coursera git 1 week</summary>
 
  ![Coursera git 1 week](gitbasic/coursera1.png)
