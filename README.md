@@ -50,11 +50,16 @@ This repo reflects the process and results of the Front-End course completion.
   ![Introduction Sequence](docs/learngitbranching1.1.png)
 </details>
 
-- [ ] Complete "Push & Pull -- Git Remotes!".
+- [X] Complete "Push & Pull -- Git Remotes!".
+> git pull --rebase; git push
 <details><summary>Push & Pull -- Git Remotes!</summary>
 
-  ![Push & Pull -- Git Remotes!](gitbasic/learningbraching2.png)
+  ![Push & Pull -- Git Remotes!](gitbasic/learningbraching2.1.png)
 </details>
+
+- [X] Send pull-request here [Kottans/mock-repo ](https://github.com/Kottans/mock-repo)
+
+### Additional materials
 
 ## 1. Linux CLI, and HTTP
 ### _Linux Survival_
