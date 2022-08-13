@@ -42,15 +42,18 @@ This repo reflects the process and results of the Front-End course completion.
 </details>
 
 ### _learnGitBranch_
+[learngitbranching.js.org](https://learngitbranching.js.org/)
 
-
-<details><summary>learnGitBranch 1</summary>
-
-  ![learnGitBranch 1](gitbasic/learningbraching1.png)
+- [X] Complete "Introduction Sequence".
+<details><summary>Introduction Sequence</summary>
+ 
+  ![Introduction Sequence](docs/learningbraching1.1.png)
 </details>
-<details><summary>learnGitBranch 2</summary>
 
-  ![learnGitBranch 2](gitbasic/learningbraching2.png)
+- [ ] Complete "Push & Pull -- Git Remotes!".
+<details><summary>Push & Pull -- Git Remotes!</summary>
+
+  ![Push & Pull -- Git Remotes!](gitbasic/learningbraching2.png)
 </details>
 
 ## 2. Linux CLI, and HTTP
