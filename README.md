@@ -2,27 +2,27 @@
 This repo reflects the process and results of the Front-End course completion.
 
 ## General
-- [ ] 1. [Git Basic](#1-git-basic)
-- [ ] 2. [Linux CLI, and HTTP](#2-linux-cli-and-http)
-- [ ] 3. [VCS, GitHub and Collaborating](#3-git-collaboration)
+- [ ] 0. [Git Basic](#1-git-basic)
+- [ ] 1. [Linux CLI, and HTTP](#2-linux-cli-and-http)
+- [ ] 2. [VCS, GitHub and Collaborating](#3-git-collaboration)
 
 ## Front-End Basic
-- [ ] 1. [Intro to HTML & CSS](#4-intro-to-html-and-css)
-- [ ] 2. Responsive Web Design
-- [ ] 3. HTML & CSS Practice
-- [ ] 4. JavaScipt Basics
-- [ ] 5. Document Object Model
+- [ ] 3. [Intro to HTML & CSS](#4-intro-to-html-and-css)
+- [ ] 4. Responsive Web Design
+- [ ] 5. HTML & CSS Practice
+- [ ] 6. JavaScipt Basics
+- [ ] 7. Document Object Model
 
 ## Advansed Topics
-- [ ] 1. Building a Tiny JS World
-- [ ] 2. Object oriented JS
-- [ ] 3. OOP exercise
-- [ ] 4. Offline Web Applications
-- [ ] 5. Memory pair game
-- [ ] 6. Website Perfomance Optimization
-- [ ] 7. Friends APP
+- [ ] 8. Building a Tiny JS World
+- [ ] 9. Object oriented JS
+- [ ] 10. OOP exercise
+- [ ] 11. Offline Web Applications
+- [ ] 12. Memory pair game
+- [ ] 13. Website Perfomance Optimization
+- [ ] 14. Friends APP
 
-## 1. Git Basic
+## 0. Git Basic
 ###  _Coursera course_
  [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
@@ -56,7 +56,7 @@ This repo reflects the process and results of the Front-End course completion.
   ![Push & Pull -- Git Remotes!](gitbasic/learningbraching2.png)
 </details>
 
-## 2. Linux CLI, and HTTP
+## 1. Linux CLI, and HTTP
 ### _Linux Survival_
 
 
@@ -81,7 +81,7 @@ This repo reflects the process and results of the Front-End course completion.
 
 ### _HTTP 2_
 
-## 3. Git Collaboration
+## 2. Git Collaboration
 
 <details><summary>Coursera week 3</summary>
 
@@ -101,7 +101,7 @@ This repo reflects the process and results of the Front-End course completion.
   ![learnGitBranch 2](task_git_collaboration/learningbraching2.png)
 </details>
 
-## 4. Intro to HTML and CSS
+## 3. Intro to HTML and CSS
 ### _Coursera_
 
 <details><summary>Coursera week 1</summary>
