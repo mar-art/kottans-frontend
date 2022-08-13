@@ -54,7 +54,7 @@ This repo reflects the process and results of the Front-End course completion.
 > git pull --rebase; git push
 <details><summary>Push & Pull -- Git Remotes!</summary>
 
-  ![Push & Pull -- Git Remotes!](gitbasic/learngitbranching2.1.png)
+  ![Push & Pull -- Git Remotes!](docs/learngitbranching2.1.png)
 </details>
 
 - [X] Send pull-request here [Kottans/mock-repo ](https://github.com/Kottans/mock-repo)
