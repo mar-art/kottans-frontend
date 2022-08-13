@@ -26,13 +26,13 @@ This repo reflects the process and results of the Front-End course completion.
 ###  _Coursera course_
  [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
-- [X] To finish the first week of course.
+- [X] Finish the first week of course.
 <details><summary>Coursera git 1 week</summary>
 
  ![Coursera git 1 week](docs/git-course_week1.png)
 </details>
 
-- [X] To finish the second week of course.
+- [X] Finish the second week of course.
 >skipping the staging area, amending commits, rollbacks, git reset, git revert, branches and merging.
 >Need more read and practise with merge conflicts
 
@@ -47,7 +47,7 @@ This repo reflects the process and results of the Front-End course completion.
 - [X] Complete "Introduction Sequence".
 <details><summary>Introduction Sequence</summary>
  
-  ![Introduction Sequence](docs/learningbraching1.1.png)
+  ![Introduction Sequence](docs/learngitbranching1.1.png)
 </details>
 
 - [ ] Complete "Push & Pull -- Git Remotes!".
