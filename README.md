@@ -31,6 +31,9 @@ This repo reflects the process and results of the Front-End course completion.
 
  ![Coursera git 1 week](docs/git-course_week1.png)
 </details>
+
+- [ ] To finish the second week of course.
+
 <details><summary>Coursera git 2 week</summary>
 
   ![Coursera git 2 week](gitbasic/coursera1.png)
