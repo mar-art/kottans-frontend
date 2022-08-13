@@ -32,11 +32,13 @@ This repo reflects the process and results of the Front-End course completion.
  ![Coursera git 1 week](docs/git-course_week1.png)
 </details>
 
-- [ ] To finish the second week of course.
+- [X] To finish the second week of course.
+>skipping the staging area, amending commits, rollbacks, git reset, git revert, branches and merging.
+>Need more read and practise with merge conflicts
 
 <details><summary>Coursera git 2 week</summary>
 
-  ![Coursera git 2 week](gitbasic/coursera1.png)
+  ![Coursera git 2 week](docs/git-course_week2.png)
 </details>
 
 ### _learnGitBranch_
