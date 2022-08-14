@@ -2,7 +2,7 @@
 This repo reflects the process and results of the Front-End course completion.
 
 ## General
-- [ ] 0. [Git Basic](#1-git-basic)
+- [X] 0. [Git Basic](#1-git-basic)
 - [ ] 1. [Linux CLI, and HTTP](#2-linux-cli-and-http)
 - [ ] 2. [VCS, GitHub and Collaborating](#3-git-collaboration)
 
@@ -59,7 +59,6 @@ This repo reflects the process and results of the Front-End course completion.
 
 - [X] Send pull-request here [Kottans/mock-repo ](https://github.com/Kottans/mock-repo)
 
-### Additional materials
 
 ## 1. Linux CLI, and HTTP
 ### _Linux Survival_
