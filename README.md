@@ -63,6 +63,9 @@ This repo reflects the process and results of the Front-End course completion.
 ## 1. Linux CLI, and HTTP
 ### _Linux Survival_
 
+- [ ] Linux survival Quiz 1.
+>The "more" command is used to view the contents of a file. The command to create a directory is "mkdir" which is short for "make directory". 
+>To move a file, you just use the "mv" command. Renaming files is simply a case of "moving" a file from one name to another. To change directories, use the "cd" command. Wherever you see "..", it refers to the directory above your current directory.
 
 <details><summary>Linux survival Quiz 1</summary>
 
