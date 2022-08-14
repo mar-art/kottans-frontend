@@ -72,7 +72,15 @@ This repo reflects the process and results of the Front-End course completion.
   ![Linux survival Quiz 1](task_linux_cli/linux1.png)
 </details>
 
-- [ ] Linux survival Quiz 2.
+- [X] Linux survival Quiz 2.
+> The copy command is "cp". The "remove directory" command is "rmdir".
+
+> Deciphering the security characters will take a bit more work. The 'r' means you can "read" the file's contents.
+The 'w' means you can "write", or modify, the file's contents.
+The 'x' means you can "execute" the file. This permission is given only if the file is a program.
+If any of the "rwx" characters is replaced by a '-', then that permission has been revoked.
+
+> To change the security permissions on files - "chmod".
 <details><summary>Linux survival Quiz 2</summary>
 
   ![Linux survival Quiz 2](task_linux_cli/linux2.png)
