@@ -86,7 +86,8 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
   ![Linux survival Quiz 2](task_linux_cli/linux2.png)
 </details>
 
-- [ ] Linux survival Quiz 3.
+- [X] Linux survival Quiz 3.
+> The "man" command. 'man -k'. 'man finger'. 'find'. 'lpr' - send to printer. 'lpq' - display print queue. 'lprm' - remove from print queue. The '-P' stands for "printer". (lpr -P printer_name file_name). 'finger' - show user information. '.' - current directory.
 
 <details><summary>Linux survival Quiz 3</summary>
 
