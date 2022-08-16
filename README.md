@@ -102,9 +102,9 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
   ![Linux survival Quiz 4](task_linux_cli/linux4.png)
 </details>
 
-### _HTTP 1_
+ - [X] _HTTP 1_
 
-### _HTTP 2_
+ - [X] _HTTP 2_
 
 ## 2. Git Collaboration
 
