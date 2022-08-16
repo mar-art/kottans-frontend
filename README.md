@@ -94,7 +94,9 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
   ![Linux survival Quiz 3](task_linux_cli/linux3.png)
 </details>
 
-- [ ] Linux survival Quiz 4.
+- [X] Linux survival Quiz 4.
+> "df" - to see how much disk space. The command that allows you to remove an entire directory tree is "rm -r". The command used to examine running programs (or "processes", in Linux lingo) is "ps", which stands for "process status".  "ps aux". The "|" sends the output of a command as the input to another command.You can use "grep" to find patterns in data. " kill PID". "kill -9 PID" - kill immediately. 
+
 <details><summary>Linux survival Quiz 4</summary>
 
   ![Linux survival Quiz 4](task_linux_cli/linux4.png)
