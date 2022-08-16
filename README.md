@@ -102,9 +102,9 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
   ![Linux survival Quiz 4](task_linux_cli/linux4.png)
 </details>
 
- - [X] _HTTP 1_
+ - [X] [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
- - [X] _HTTP 2_
+ - [X] [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 ## 2. Git Collaboration
 
