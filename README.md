@@ -3,7 +3,7 @@ This repo reflects the process and results of the Front-End course completion.
 
 ## General
 - [X] 0. [Git Basic](#1-git-basic)
-- [ ] 1. [Linux CLI, and HTTP](#2-linux-cli-and-http)
+- [X] 1. [Linux CLI, and HTTP](#2-linux-cli-and-http)
 - [ ] 2. [VCS, GitHub and Collaborating](#3-git-collaboration)
 
 ## Front-End Basic
