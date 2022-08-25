@@ -122,10 +122,23 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
   ![Coursera week 4](task_git_collaboration/week4.png)
 </details>
 
+- [ ] Complete "".
+
+>> Git describe має наступну форму: git describe <посилання>.
+>>Де <посилання> -- це будь-що, що вказує на конкретний коміт. Якщо ти не вкажеш посилання, git використає поточну локацію (HEAD).
+>>Вивід команди виглядає як:
+>><таг>_<к-ть комітів>_g<хеш>
+>>де таг -- це найближчий попередній таг з історії; к-ть комітів -- це наскільки далеко цей таг в історії, а <хеш> -- це хеш коміту, який описується.
+
+
 <details><summary>learnGitBranch 1</summary>
 
   ![learnGitBranch 1](task_git_collaboration/learningbraching1.png)
 </details>
+
+- [ ] Complete "".
+
+
 <details><summary>learnGitBranch 2</summary>
 
   ![learnGitBranch 2](task_git_collaboration/learningbraching2.png)
