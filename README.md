@@ -122,7 +122,7 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
   ![Coursera week 4](task_git_collaboration/week4.png)
 </details>
 
-- [ ] Complete "".
+- [X] Complete "Moving Work Around", "A Mixed Bag".
 
 >> Git describe має наступну форму: git describe <посилання>.
 >>Де <посилання> -- це будь-що, що вказує на конкретний коміт. Якщо ти не вкажеш посилання, git використає поточну локацію (HEAD).
