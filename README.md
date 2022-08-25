@@ -108,10 +108,15 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
 
 ## 2. Git Collaboration
 
+- [X] Finish the third week of course.
+
 <details><summary>Coursera week 3</summary>
 
   ![Coursera week 3](task_git_collaboration/week3.png)
 </details>
+
+- [X] Finish the fourth week of course.
+
 <details><summary>Coursera week 4</summary>
 
   ![Coursera week 4](task_git_collaboration/week4.png)
