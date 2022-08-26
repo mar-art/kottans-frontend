@@ -8,7 +8,7 @@ This repo reflects the process and results of the Front-End course completion.
 
 ## Front-End Basic
 - [ ] 3. [Intro to HTML & CSS](#3-intro-to-html-and-css)
-- [ ] 4. Responsive Web Design
+- [ ] 4. Responsive Web Design(#4-responsive-web-design)
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScipt Basics
 - [ ] 7. Document Object Model
@@ -179,3 +179,16 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
 
   ![Codecademy CSS](task_html_css_intro/codecademycss.png)
 </details>
+
+## 4. Responsive Web Design
+
+- [ ] [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
+
+- [ ] [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+
+- [ ] [Flexbox Froggy](http://flexboxfroggy.com/) - гра для закріплення
+
+- [ ] [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+
+- [ ] [Grid Garden](http://cssgridgarden.com/) - гра для закріплення
+
