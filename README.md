@@ -2,12 +2,12 @@
 This repo reflects the process and results of the Front-End course completion.
 
 ## General
-- [X] 0. [Git Basic](#1-git-basic)
-- [X] 1. [Linux CLI, and HTTP](#2-linux-cli-and-http)
-- [X] 2. [VCS, GitHub and Collaborating](#3-git-collaboration)
+- [X] 0. [Git Basic](#0-git-basic)
+- [X] 1. [Linux CLI, and HTTP](#1-linux-cli-and-http)
+- [X] 2. [VCS, GitHub and Collaborating](#2-git-collaboration)
 
 ## Front-End Basic
-- [ ] 3. [Intro to HTML & CSS](#4-intro-to-html-and-css)
+- [ ] 3. [Intro to HTML & CSS](#3-intro-to-html-and-css)
 - [ ] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScipt Basics
