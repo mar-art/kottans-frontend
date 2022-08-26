@@ -147,6 +147,8 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
 ## 3. Intro to HTML and CSS
 ### _Coursera_
 
+- [ ] Complete weeks 1 and 2 (up to Introduction to Responsive Design) course [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+
 <details><summary>Coursera week 1</summary>
 
   ![Coursera week 1](task_html_css_intro/coursera1.png)
@@ -156,7 +158,11 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
   ![Coursera week 2](task_html_css_intro/coursera2.png)
 </details>
 
+
 ### _Learn HTML_
+
+- [X] [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
+
 
 <details><summary>Codecademy HTML</summary>
 
@@ -164,6 +170,10 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
 </details>
 
 ### _Learn CSS_
+
+
+- [X] [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+
 
 <details><summary>Codecademy CSS</summary>
 
