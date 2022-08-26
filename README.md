@@ -8,7 +8,7 @@ This repo reflects the process and results of the Front-End course completion.
 
 ## Front-End Basic
 - [ ] 3. [Intro to HTML & CSS](#3-intro-to-html-and-css)
-- [ ] 4. Responsive Web Design(#4-responsive-web-design)
+- [ ] 4. [Responsive Web Design](#4-responsive-web-design)
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScipt Basics
 - [ ] 7. Document Object Model
