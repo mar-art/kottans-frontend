@@ -4,7 +4,7 @@ This repo reflects the process and results of the Front-End course completion.
 ## General
 - [X] 0. [Git Basic](#1-git-basic)
 - [X] 1. [Linux CLI, and HTTP](#2-linux-cli-and-http)
-- [ ] 2. [VCS, GitHub and Collaborating](#3-git-collaboration)
+- [X] 2. [VCS, GitHub and Collaborating](#3-git-collaboration)
 
 ## Front-End Basic
 - [ ] 3. [Intro to HTML & CSS](#4-intro-to-html-and-css)
@@ -136,8 +136,8 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
   ![learnGitBranch 1](task_git_collaboration/learningbraching1.png)
 </details>
 
-- [ ] Complete "".
-
+- [X] Complete "To Origin And Beyond -- Advanced Git Remotes!".
+> Що буде, якщо спробувати запушити "ніщо" у гілку віддаленого репозиторію? Git її видалить! Завантаження "нічого" в локальний репозиторій створює нову гілку.
 
 <details><summary>learnGitBranch 2</summary>
 
