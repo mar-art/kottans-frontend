@@ -7,7 +7,7 @@ This repo reflects the process and results of the Front-End course completion.
 - [X] 2. [VCS, GitHub and Collaborating](#2-git-collaboration)
 
 ## Front-End Basic
-- [ ] 3. [Intro to HTML & CSS](#3-intro-to-html-and-css)
+- [X] 3. [Intro to HTML & CSS](#3-intro-to-html-and-css)
 - [ ] 4. [Responsive Web Design](#4-responsive-web-design)
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScipt Basics
@@ -147,7 +147,7 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
 ## 3. Intro to HTML and CSS
 ### _Coursera_
 
-- [ ] Complete weeks 1 and 2 (up to Introduction to Responsive Design) course [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+- [X] Complete weeks 1 and 2 (up to Introduction to Responsive Design) course [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
 <details><summary>Coursera week 1</summary>
 
