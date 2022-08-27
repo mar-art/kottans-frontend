@@ -182,7 +182,17 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
 
 ## 4. Responsive Web Design
 
-- [ ] [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
+- [X] [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
+> A meta viewport tag gives the browser instructions on how to control the page's dimensions and scaling. Using the meta viewport value width=device-width instructs the page to match the screen's width in device-independent pixels. 
+
+> Adding the value initial-scale=1 instructs browsers to establish a 1:1 relationship between CSS pixels and device-independent pixels regardless of device orientation, and allows the page to take advantage of the full landscape width.
+
+> Flexbox. This layout method is ideal when you have a set of items of different sizes and you would like them to fit comfortably in a row or rows, with smaller items taking less space and larger ones getting more space.
+
+> CSS Grid Layout allows for the straightforward creation of flexible grids. If we consider the earlier floated example, rather than creating our columns with percentages, we could use grid layout and the fr unit, which represents a portion of the available space in the container.
+
+> For some types of layout you can use Multiple-column Layout (Multicol), which can create responsive numbers of columns with the column-width property. 
+
 
 - [ ] [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
 
