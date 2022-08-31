@@ -194,9 +194,13 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
 > For some types of layout you can use Multiple-column Layout (Multicol), which can create responsive numbers of columns with the column-width property. 
 
 
-- [ ] [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+- [X] [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
 
-- [ ] [Flexbox Froggy](http://flexboxfroggy.com/) - гра для закріплення
+- [X] [Flexbox Froggy](http://flexboxfroggy.com/) - гра для закріплення
+<details><summary>Froggy Game</summary>
+
+  ![Froggy Game](task_responsive_web_design/flexbox-froggy.png)
+</details>
 
 - [ ] [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
 
