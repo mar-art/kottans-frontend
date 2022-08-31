@@ -8,7 +8,7 @@ This repo reflects the process and results of the Front-End course completion.
 
 ## Front-End Basic
 - [X] 3. [Intro to HTML & CSS](#3-intro-to-html-and-css)
-- [ ] 4. [Responsive Web Design](#4-responsive-web-design)
+- [X] 4. [Responsive Web Design](#4-responsive-web-design)
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScipt Basics
 - [ ] 7. Document Object Model
@@ -202,7 +202,10 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
   ![Froggy Game](task_responsive_web_design/flexbox-froggy.png)
 </details>
 
-- [ ] [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+- [X] [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
 
-- [ ] [Grid Garden](http://cssgridgarden.com/) - гра для закріплення
+- [X] [Grid Garden](http://cssgridgarden.com/) - гра для закріплення
+<details><summary>Grid Garden</summary>
 
+  ![Grid Garden](task_responsive_web_design/grid-garden.png)
+</details>
