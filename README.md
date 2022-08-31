@@ -9,8 +9,8 @@ This repo reflects the process and results of the Front-End course completion.
 ## Front-End Basic
 - [X] 3. [Intro to HTML & CSS](#3-intro-to-html-and-css)
 - [X] 4. [Responsive Web Design](#4-responsive-web-design)
-- [ ] 5. HTML & CSS Practice
-- [ ] 6. JavaScipt Basics
+- [ ] 5. [HTML & CSS Practice](#5-html-css-practice)
+- [ ] 6. [JavaSrcipt Basics](#6-javascript-basics)
 - [ ] 7. Document Object Model
 
 ## Advansed Topics
@@ -209,3 +209,32 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
 
   ![Grid Garden](task_responsive_web_design/grid-garden.png)
 </details>
+
+
+## 5. HTML CSS Practice
+
+## 6. JavaScript Basics
+
+- [ ] Пройти тиждень 4 курсу [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
+
+
+- [ ] Вправи FreeCodeCamp. 
+Заповніть наведені нижче модулі та збережіть знімки екрана для кожного модуля.
+   - [ ] [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/) 
+     Basic JavaScript language features. ~100 невеликі вправи, на виконання 2-3 години.
+   - [ ] [ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/) -
+     JS ES6 features. Виконайте початкові 17 вправ (до **Write Concise Declarative Functions with ES6**),
+     На виконання 3-4 години.
+   - [ ] [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/) -
+     Взаємодія з масивами та об’єктами. Виконайте всі вправи (20). На завершення 3-4 години.
+   - [ ] [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/) -
+     Основи алгоритмів. Розв’яжіть усі задачі (<20). На завершення 4-5 годин.
+   - [ ] [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/) -
+     Виконайте всі вправи (<25). 2-3 години для завершення.
+   - [ ] [Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) -
+      Середній рівень алгоритмів. Розв’яжіть початкові 11 задач (до **Convert HTML Entities**), на виконання 3–5 годин.
+     - :warning: У [**Pig Latin**](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin/)
+       вправі англійська літера **Y** вважається приголосним.
+     - :warning: У [**Convert HTML Entities**](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities)
+       вправі **НЕ** копіювати та вставляти об’єкти HTML (`'&amp;'`, `'&lt'` etc.) з тестів
+       оскільки вони міститимуть невидимі нерозривні пробіли, і код не працюватиме належним чином. Натомість введіть їх.
