@@ -9,7 +9,7 @@ This repo reflects the process and results of the Front-End course completion.
 ## Front-End Basic
 - [X] 3. [Intro to HTML & CSS](#3-intro-to-html-and-css)
 - [X] 4. [Responsive Web Design](#4-responsive-web-design)
-- [ ] 5. [HTML & CSS Practice](#5-html-css-practice)
+- [X] 5. [HTML & CSS Practice](#5-html-css-practice)
 - [ ] 6. [JavaSrcipt Basics](#6-javascript-basics)
 - [ ] 7. Document Object Model
 
@@ -212,6 +212,8 @@ If any of the "rwx" characters is replaced by a '-', then that permission has be
 
 
 ## 5. HTML CSS Practice
+
+- [X] Place popup in its own repository.
 
 ## 6. JavaScript Basics
 
